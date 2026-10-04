@@ -42,7 +42,7 @@ CodeLABS operates across three specialized technical domains:
 - Website: https://thecodelabs.org
 - GitHub: https://github.com/thecodelabs
 - Institution: Seth Jai Parkash Mukand Lal Institute of Engineering & Technology (JMIT), Radaur, Yamunanagar, Haryana 135133, India
-- Email: contact@thecodelabs.org
+- Email: codelabs@jmit.ac.in
 
 # CodeLABS • Complete Knowledge Context
 
